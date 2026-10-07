@@ -62,13 +62,6 @@ With expertise in both frontend and backend development, I design clean architec
 
 ---
 
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammedHashimNilger&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-
 ## 🎓 Education
 
 **B.Tech in Computer Science & Engineering**  
@@ -77,10 +70,3 @@ Mewar University, Chittorgarh, Rajasthan
 
 ---
 
-**Feel free to reach out via [LinkedIn](https://linkedin.com/in/MohammedHashimNilger) or [Email](mailto:hashimrangrezz786@gmail.com)**
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=MohammedHashimNilger&icon=10&color=0)](https://visitcount.itsvg.in)
-
-*Last Updated: September 2026 | Actively seeking opportunities*
